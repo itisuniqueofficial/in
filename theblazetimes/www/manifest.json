@@ -95,7 +95,7 @@
       "name": "Explore Blog",
       "short_name": "Blog",
       "description": "View the latest updates and articles.",
-      "url": "https://edu.theblazetimes.in/search",
+      "url": "https://www.theblazetimes.in/search",
       "icons": [
         {
           "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/96x96.png",
@@ -108,7 +108,7 @@
       "name": "Contact Us",
       "short_name": "Contact",
       "description": "Get in touch with us for inquiries.",
-      "url": "https://edu.theblazetimes.in/p/contact.html",
+      "url": "https://www.theblazetimes.in/p/contact.html",
       "icons": [
         {
           "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/96x96.png",
