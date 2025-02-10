@@ -1,0 +1,135 @@
+{
+  "name": "The Blaze Times",
+  "short_name": "TBT",
+  "description": "The Blaze Times delivers the latest mobile tech news, reviews, updates, and guides, making complex topics easy to understand for tech enthusiasts.",
+  "start_url": "https://www.theblazetimes.in/",
+  "display": "standalone",
+  "theme_color": "#6200ee",
+  "background_color": "white",
+  "orientation": "any",
+  "id": "https://www.theblazetimes.in/",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/16x16.png",
+      "sizes": "16x16",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/32x32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/36x36.png",
+      "sizes": "36x36",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/57x57.png",
+      "sizes": "57x57",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/60x60.png",
+      "sizes": "60x60",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/70x70.png",
+      "sizes": "70x70",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/76x76.png",
+      "sizes": "76x76",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/desktop-screenshot-1.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/mobile-screenshot-1.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Explore Blog",
+      "short_name": "Blog",
+      "description": "View the latest updates and articles.",
+      "url": "https://edu.theblazetimes.in/search",
+      "icons": [
+        {
+          "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Contact Us",
+      "short_name": "Contact",
+      "description": "Get in touch with us for inquiries.",
+      "url": "https://edu.theblazetimes.in/p/contact.html",
+      "icons": [
+        {
+          "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "News",
+    "Updates",
+    "Technology"
+  ],
+  "related_applications": [
+    {
+      "platform": "web",
+      "url": "https://www.theblazetimes.in/"
+    }
+  ],
+  "lang": "en",
+  "scope": "https://www.theblazetimes.in/",
+  "dir": "ltr"
+}
