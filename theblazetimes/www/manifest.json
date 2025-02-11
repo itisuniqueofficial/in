@@ -84,7 +84,43 @@
       "form_factor": "wide"
     },
     {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/desktop-screenshot-2.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/desktop-screenshot-3.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/desktop-screenshot-4.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
       "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/mobile-screenshot-1.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/mobile-screenshot-2.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/mobile-screenshot-3.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/itisuniqueofficial/in/theblazetimes/www/mobile-screenshot-4.png",
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow"
